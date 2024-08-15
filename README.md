@@ -1,6 +1,6 @@
 # Parktikum Containerd
 
-## Langkah-Langkah Praktikum Containerd
+## Langkah-Langkah Menggunakan Containerd
 
 1. Instalasi containerd:
    **Di Ubuntu/Debian:**
