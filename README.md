@@ -2,6 +2,6 @@
 
 ## Instalasi containerd
 
-- Menggunakan ubuntuk:
+- Menggunakan ubuntu: /n
   **sudo apt-get update**
   **sudo apt-get install -y containerd**
