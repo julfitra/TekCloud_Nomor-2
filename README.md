@@ -21,6 +21,10 @@
 
 5. Mulai dan Aktifkan containerd
    **Jalankan dan aktifkan layanan containerd:**
+   - sudo systemctl start containerd
+  
+     ![alt](images/image-4.png)  
+     
+   - sudo systemctl enable containerd
 
-   ![alt](images/image-4.png)
-   ![alt](images/image-5.png)    
+    ![alt](images/image-5.png)    
