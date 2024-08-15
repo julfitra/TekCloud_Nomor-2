@@ -1,8 +1,8 @@
 # Praktikkan Menggunakan Containerd
 
-## Instalasi containerd
+## Langkah-Langkah Praktikum Containerd
 
-1. Menggunakan ubuntu:
+1. Instalasi containerd:
    **Di Ubuntu/Debian:**
    - sudo apt-get update
 
